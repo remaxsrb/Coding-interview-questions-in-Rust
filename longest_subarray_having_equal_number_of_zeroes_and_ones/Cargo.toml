@@ -1,0 +1,8 @@
+[package]
+name = "longest_subarray_having_equal_number_of_zeroes_and_ones"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]

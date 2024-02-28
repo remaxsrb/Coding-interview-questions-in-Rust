@@ -1,0 +1,1 @@
+/home/remax/Storage/coding_interview_questions_in_rust/print_zero_sum_arrays/target/debug/print_zero_sum_arrays: /home/remax/Storage/coding_interview_questions_in_rust/print_zero_sum_arrays/src/main.rs

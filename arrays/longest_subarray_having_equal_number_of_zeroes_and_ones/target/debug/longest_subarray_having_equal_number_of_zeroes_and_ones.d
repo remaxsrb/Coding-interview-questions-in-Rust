@@ -1,0 +1,1 @@
+/home/remax/Storage/coding_interview_questions_in_rust/arrays/longest_subarray_having_equal_number_of_zeroes_and_ones/target/debug/longest_subarray_having_equal_number_of_zeroes_and_ones: /home/remax/Storage/coding_interview_questions_in_rust/arrays/longest_subarray_having_equal_number_of_zeroes_and_ones/src/main.rs

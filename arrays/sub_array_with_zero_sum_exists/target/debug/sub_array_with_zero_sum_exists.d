@@ -1,0 +1,1 @@
+/home/remax/Storage/coding_interview_questions_in_rust/sub_array_with_zero_sum_exists/target/debug/sub_array_with_zero_sum_exists: /home/remax/Storage/coding_interview_questions_in_rust/sub_array_with_zero_sum_exists/src/main.rs

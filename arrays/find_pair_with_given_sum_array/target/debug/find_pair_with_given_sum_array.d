@@ -1,0 +1,1 @@
+/home/remax/Storage/coding_interview_questions_in_rust/find_pair_with_given_sum_array/target/debug/find_pair_with_given_sum_array: /home/remax/Storage/coding_interview_questions_in_rust/find_pair_with_given_sum_array/src/main.rs
